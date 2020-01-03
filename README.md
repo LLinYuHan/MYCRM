@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -231,7 +230,3 @@ vendor/bin/codecept run unit -- --coverage-html --coverage-xml
 vendor/bin/codecept run functional,unit -- --coverage-html --coverage-xml
 ```
 
-You can see code coverage output under the `tests/_output` directory.
-=======
-# MYCRM
->>>>>>> 34d45468955d284d4cdbe8119f5d335fa61f9384
